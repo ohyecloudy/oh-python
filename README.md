@@ -1,2 +1,0 @@
-# oh-python
-hello python!
