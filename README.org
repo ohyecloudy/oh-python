@@ -1,3 +1,5 @@
+[[https://travis-ci.org/ohyecloudy/oh-python][https://travis-ci.org/ohyecloudy/oh-python.svg]]
+
 * oh-python
 
 파이썬 공부 프로젝트. 테스트를 작성하며 언어를 익힌다.
