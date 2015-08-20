@@ -4,7 +4,7 @@
 
 파이썬 공부 프로젝트. 테스트를 작성하며 언어를 익힌다.
 
-** Installation / Getting Start
+** Getting Start
 
 #+BEGIN_SRC
 script/test
